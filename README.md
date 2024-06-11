@@ -2,11 +2,9 @@
 # Discord-UWP
 Discord WebView2 App is a Windows and Xbox Dev Mode console UWP designed to give browser based access to Discord Client.
 
-* Supported Devices
-
-Windows 10/11. _(X64/ARM64)_
-
-Xbox One/Series Console with functional Developer Mode. _(X64)_
+ ### Supported Devices
+* Windows 10/11. _(X64/ARM64)_
+* Xbox One/Series Console with functional Developer Mode. _(X64)_
 
 
 _This is NOT affiliated with Discord_
