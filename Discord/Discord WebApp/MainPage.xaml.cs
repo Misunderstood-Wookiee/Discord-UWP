@@ -18,7 +18,7 @@ using Windows.UI.Xaml.Navigation;
 namespace Discord_WebApp
 {
     /// <summary>
-    /// Core Display Page for Stremio Content.
+    /// Core Display Page for Discord WebView Content.
     /// </summary>
     public sealed partial class MainPage : Page
     {
