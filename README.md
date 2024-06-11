@@ -2,4 +2,4 @@
 # Discord-UWP
 Discord WebView2 App is a Windows and Xbox console UWP designed to give browser based access to Discord Client.
 
-_This is NOIT affiliated with Discord_
+_This is NOT affiliated with Discord_
